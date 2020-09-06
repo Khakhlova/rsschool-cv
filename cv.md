@@ -2,8 +2,8 @@
 
 
 ## Contact Info
-  *__Email__: khokhlova.katherina@gmail.com
-  *__LinkedIn__: www.linkedin.com/in/katsiaryna-khakhlova-0279b119a
+  * __Email__: khokhlova.katherina@gmail.com
+  * __LinkedIn__: www.linkedin.com/in/katsiaryna-khakhlova-0279b119a
 
 
 ## Summary
@@ -24,8 +24,8 @@ Only experience obtained at belhard academy courses.
 _Faculty of Accounting and Economics_
 
 ### *Belhard Academy Cources:*
-*_Web application development basics (2019)_
-*_Front-End using JavaScript and HTML (2019)_
+* _Web application development basics (2019)_
+* _Front-End using JavaScript and HTML (2019)_
 
 
 ## English
