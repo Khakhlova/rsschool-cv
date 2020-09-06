@@ -24,10 +24,10 @@ Only experience obtained at belhard academy courses.
 
 ## Education
 
-### Belarus State Economic University (2007-2012)
-_Faculty of Accounting and Economics_
+#### Belarus State Economic University (2007-2012)
+ _Faculty of Accounting and Economics_
 
-### Belhard Academy Cources (2019):
+#### Belhard Academy Cources (2019):
 * _Web application development basics_
 * _Front-End using JavaScript and HTML_
 
