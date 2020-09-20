@@ -1,0 +1,47 @@
+body {
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    font-family: TimesNewRoman, sans-serif;
+}
+
+header {
+    display: inline-block;
+    width: 800px;
+}
+
+.info {
+    float: left;
+    width: 82%;
+}
+
+.foto {
+    float: right;
+    width: 18%;
+}
+
+img {
+    margin-top: 10px;
+}
+
+h2 {
+    margin-bottom: -10px;
+}
+
+.contact {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.name {
+    text-align: center;
+    margin-top: 0px;
+}
+
+h4 {
+    margin-bottom: 3px;
+}
+
+.cources {
+    margin-top: 0px;
+}
